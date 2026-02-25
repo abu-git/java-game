@@ -1,8 +1,24 @@
-# java-game
-A 22-Stick game I wrote in Java. Original year of creation 2015.
-
+# 22 Stick java-game
+A game I wrote in Java. Original year of creation 2015.
 It was a challenge that I took upon myself at the time inebriated with friends.
-I gave them my word that I was going to do it and I did.
+I gave them my word that I would do it and I did.
 
-If you have Java installed on your computer and can run .java code on your terminal, then just clone the repo and run GameVersion2 like this:
- java GameVersion2
+If you have Java installed on your computer and can run .java code on your terminal, then you can play. 
+
+## 📦 Installation
+
+Clone the repo
+
+```bash
+git clone https://github.com/abu-git/java-game.git
+cd java-game
+```
+
+## 🛠 Usage
+
+On terminal and in the java-game directory, run:
+
+```bash
+javac GameVersion2.java
+java GameVersion2
+```
